@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.navbar {
+    background-color: rgb(173, 105, 105);
+    color: white;
+}
+.nav-link {
+    color: white;
+  
+}  
